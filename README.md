@@ -1,6 +1,9 @@
-# lwc-local-dev
-This repository contains code committed after a live coding session
+# SFDX App
 
+## Dev, Build and Test
 
-##Note
-Code will be commited after completing the Live Coding Sesseion
+## Resources
+
+## Description of Files and Directories
+
+## Issues
